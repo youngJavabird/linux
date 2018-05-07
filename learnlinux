@@ -35,7 +35,8 @@ uname    显示系统信息
 top      动态显示当前耗费资源最多进程信息
 ps       显示瞬间进程状态 ps -aux
 du       查看目录大小 du -h /home带有单位显示目录信息
-df       查看磁盘大小 df -h 带有单位显示磁盘信息
+df       查看磁盘大小 df -h 带有单位显示磁盘信息 
+ip addr  查看网络ip
 ifconfig 查看网络情况
 ping     测试网络连通
 netstat  显示网络状态信息
@@ -70,6 +71,4 @@ kill     杀死进程，可以先用ps 或 top命令查看进程的id，然后�
     reboot      重启
 
 more info：http://www.daniubiji.cn/archives/25
-
-
-
+ip地址配置 ：https://www.linuxidc.com/Linux/2017-11/148353.html
